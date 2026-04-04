@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-shodan": {
+      "command": "mcp-shodan",
+      "env": {}
+    }
+  }
+}
